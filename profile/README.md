@@ -16,4 +16,4 @@ Here's a list of all the archived projects stored here:
 
 | Repo | Notes |
 |------|-------|
-| **NOTHING HERE YET!** | |
+| [ddab-archive/8queens](https://github.com/ddab-archive/8queens) | 8 Queens Problem Solver |
