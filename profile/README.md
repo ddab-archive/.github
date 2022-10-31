@@ -17,3 +17,4 @@ Here's a list of all the archived projects stored here:
 | Repo | Notes |
 |------|-------|
 | [ddab-archive/8queens](https://github.com/ddab-archive/8queens) | 8 Queens Problem Solver |
+| [ddab-archive/boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
