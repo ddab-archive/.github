@@ -1,6 +1,6 @@
 # DelphiDabbler Archives
 
-This `ddab-archive` organsiation is where I keep archives of old, retired, programs and library code that were never maintained using Git.
+`ddab-archive` is where I keep archives of old, retired, programs and library code that were never maintained using Git.
 
 Some of the code was maintained in Subversion, and some was never developed using a CVS at all.
 
