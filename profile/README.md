@@ -20,3 +20,4 @@ Here's a list of all the archived projects stored here:
 | [ddab-archive/boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
 | [ddab-archive/chi](https://github.com/ddab-archive/chi) | Component Help Installer - installs OpenHelp files in the Delphi 3 to 7 IDE |
 | [ddab-archive/sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
+| [ddab-archive/mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
