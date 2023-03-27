@@ -13,6 +13,7 @@ _All the projects in this organisation are archived and are no longer being deve
 | [8queens](https://github.com/ddab-archive/8queens) | 8 Queens Problem Solver |
 | [boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
 | [chi](https://github.com/ddab-archive/chi) | Component Help Installer - installs OpenHelp files in the Delphi 3 to 7 IDE |
+| [life](https://github.com/ddab-archive/life) | John Conway's Game of Life Demonstration. |
 | [sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
 
 #### Components & IDE extensions
