@@ -22,3 +22,4 @@ Here's a list of all the archived projects stored here:
 | [sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
 | [mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
 | [cmenu](https://github.com/ddab-archive/cmenu) | Pop-up menu to component display a colour palette. | 
+| [menusb](https://github.com/ddab-archive/menusb) | Specialised pop-up menu speed button components. |
