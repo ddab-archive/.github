@@ -23,6 +23,7 @@ _All the projects in this organisation are archived and are no longer being deve
 | [cmenu](https://github.com/ddab-archive/cmenu) | Pop-up menu to component display a colour palette. | 
 | [menusb](https://github.com/ddab-archive/menusb) | Specialised pop-up menu speed button components. |
 | [mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
+| [verinfo16](https://github.com/ddab-archive/verinfo16) | Ancient Delphi 1 component for reading version information from 16 bit programs. |
 
 ## Other repos
 
