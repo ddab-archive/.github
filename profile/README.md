@@ -16,9 +16,9 @@ Here's a list of all the archived projects stored here:
 
 | Repo | Notes |
 |------|-------|
-| [ddab-archive/8queens](https://github.com/ddab-archive/8queens) | 8 Queens Problem Solver |
-| [ddab-archive/boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
-| [ddab-archive/chi](https://github.com/ddab-archive/chi) | Component Help Installer - installs OpenHelp files in the Delphi 3 to 7 IDE |
-| [ddab-archive/sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
-| [ddab-archive/mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
-| [ddab-archive/cmenu](https://github.com/ddab-archive/cmenu) | Pop-up menu to component display a colour palette. | 
+| [8queens](https://github.com/ddab-archive/8queens) | 8 Queens Problem Solver |
+| [boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
+| [chi](https://github.com/ddab-archive/chi) | Component Help Installer - installs OpenHelp files in the Delphi 3 to 7 IDE |
+| [sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
+| [mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
+| [cmenu](https://github.com/ddab-archive/cmenu) | Pop-up menu to component display a colour palette. | 
