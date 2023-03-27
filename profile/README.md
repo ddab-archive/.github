@@ -6,13 +6,7 @@ Some of the code was maintained in Subversion, and some was never developed usin
 
 _All the projects in this organisation are archived and are no longer being developed._
 
-To see my active projects please visit one or more of:
-
-* [delphidabbler](https://github.com/delphidabbler) - my main account
-* [ddablib](https://github.com/ddablib) - the DDabLib library of Delphi code
-* [cahamo](https://github.com/cahamo) - my microcontroller project code
-
-Here's a list of all the archived projects stored here:
+#### Programs
 
 | Repo | Notes |
 |------|-------|
@@ -20,6 +14,19 @@ Here's a list of all the archived projects stored here:
 | [boobytrap](https://github.com/ddab-archive/boobytrap) | Boobytrap! - A Minesweeper clone |
 | [chi](https://github.com/ddab-archive/chi) | Component Help Installer - installs OpenHelp files in the Delphi 3 to 7 IDE |
 | [sibuilder](https://github.com/ddab-archive/sibuilder) | Simple installation program builder that creates command line based installers. |
-| [mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
+
+#### Components & IDE extensions
+
+| Repo | Notes |
+|------|-------|
 | [cmenu](https://github.com/ddab-archive/cmenu) | Pop-up menu to component display a colour palette. | 
 | [menusb](https://github.com/ddab-archive/menusb) | Specialised pop-up menu speed button components. |
+| [mtdwiz](https://github.com/ddab-archive/mtdwiz) | Wizard that enables the macro toolbar in Delphi 7 editor windows. | 
+
+## Other repos
+
+To see my active projects please visit one or more of:
+
+* [delphidabbler](https://github.com/delphidabbler) - my main account
+* [ddablib](https://github.com/ddablib) - the DDabLib library of Delphi code
+* [cahamo](https://github.com/cahamo) - my microcontroller project code
