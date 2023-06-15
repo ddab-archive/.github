@@ -11,6 +11,7 @@ Of course, you're free to fork the repos and do what you want with them, within 
 Having explained that, do note that contributions are welcome to my other projects. Please check out:
 
 * [delphidabbler](https://github.com/delphidabbler) - my main account
+* [ddabapps](https://github.com/ddabapps) - applications written in Delphi
 * [ddablib](https://github.com/ddablib) - the DDabLib library of Delphi code
 * [cahamo](https://github.com/cahamo) - my microcontroller project code
 
