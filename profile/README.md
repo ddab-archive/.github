@@ -31,4 +31,5 @@ To see my active projects please visit one or more of:
 
 * [delphidabbler](https://github.com/delphidabbler) - my main account
 * [ddablib](https://github.com/ddablib) - the DDabLib library of Delphi code
+* [ddabapps](https://github.com/ddabapps) - various applications not maintained under the main account
 * [cahamo](https://github.com/cahamo) - my microcontroller project code
